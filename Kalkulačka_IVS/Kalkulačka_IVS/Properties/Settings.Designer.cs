@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Kalkulačka.Properties
+namespace Kalkulačka_IVS.Properties
 {
 
 

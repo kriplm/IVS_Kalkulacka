@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{532B36FD-CD8F-4F75-B00A-139E412FB38F}</ProjectGuid>
+    <ProjectGuid>{62A51DCD-1833-465C-879D-904F13ED530E}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Kalkulačka</RootNamespace>
-    <AssemblyName>Kalkulačka</AssemblyName>
+    <RootNamespace>Kalkulacka</RootNamespace>
+    <AssemblyName>Kalkulacka</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -54,9 +54,6 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

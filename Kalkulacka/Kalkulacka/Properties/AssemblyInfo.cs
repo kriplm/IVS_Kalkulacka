@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Obecné informace o sestavení se řídí přes následující 
 // sadu atributů. Změnou hodnot těchto atributů se upraví informace
 // přidružené k sestavení.
-[assembly: AssemblyTitle("Kalkulačka")]
+[assembly: AssemblyTitle("Kalkulacka")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Kalkulačka")]
+[assembly: AssemblyProduct("Kalkulacka")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Následující GUID se používá pro ID knihovny typů, pokud je tento projekt vystavený pro COM.
-[assembly: Guid("532b36fd-cd8f-4f75-b00a-139e412fb38f")]
+[assembly: Guid("62a51dcd-1833-465c-879d-904f13ed530e")]
 
 // Informace o verzi sestavení se skládá z těchto čtyř hodnot:
 //

@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Kalkulačka
+namespace Kalkulačka_IVS
 {
     public partial class Form1 : Form
     {
