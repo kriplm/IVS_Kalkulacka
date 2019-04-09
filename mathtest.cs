@@ -1,17 +1,18 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace MatematicTridaTest
+namespace IVSMath
+
 {
     [TestClass]
     public class IVSMath
     {
-        # private IvsMath matematic
+        # private IVSMath matematic
 
         [TestInitialize]
         public void Inicializace()
         {
-            matematic = new MatematicTrida();
+            matematic = new IVSMath();
         }
 
         [TestMethod]
