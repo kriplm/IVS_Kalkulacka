@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2041
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kalkulačka_IVS", "Kalkulačka_IVS\Kalkulačka_IVS.csproj", "{5903C7EB-90E0-4BAE-895F-853A76504C8B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mathlib", "Mathlib\Mathlib.csproj", "{E46E9AF5-148B-47F8-9B26-605859CB985C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5903C7EB-90E0-4BAE-895F-853A76504C8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5903C7EB-90E0-4BAE-895F-853A76504C8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5903C7EB-90E0-4BAE-895F-853A76504C8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E46E9AF5-148B-47F8-9B26-605859CB985C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E46E9AF5-148B-47F8-9B26-605859CB985C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E46E9AF5-148B-47F8-9B26-605859CB985C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E46E9AF5-148B-47F8-9B26-605859CB985C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
