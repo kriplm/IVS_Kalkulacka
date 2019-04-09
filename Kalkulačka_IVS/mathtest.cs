@@ -1,17 +1,18 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace MatematicTridaTest
+namespace IVSMath
+
 {
     [TestClass]
     public class IVSMath
     {
-        # private IvsMath matematic
+        # private IVSMath matematic
 
         [TestInitialize]
         public void Inicializace()
         {
-            matematic = new MatematicTrida();
+            matematic = new IVSMath();
         }
 
         [TestMethod]
@@ -271,25 +272,25 @@ namespace MatematicTridaTest
         [TestMethod]
         public void Modulo()
         {
-            Assert.AreEqual(0, matematic.Mod(8, 2));
-            Assert.AreEqual(0.05, matematic.Mod(8, 0.15));
-            Assert.AreEqual(1, matematic.Mod(25, 3));
-            Assert.AreEqual(-1, matematic.Mod(-25, 3));
-            Assert.AreEqual(-2, matematic.Mod(25, -3));
-            Assert.AreEqual(0.645, matematic.Mod(126, 0.685));
-            Assert.AreEqual(-11, matematic.Mod(259, -27));
-            Assert.AreEqual(-6, matematic.Mod(-358, 16));
-            Assert.AreEqual(1556, matematic.Mod(1556, 2000));
-            Assert.AreEqual(0, matematic.Mod(2590, -2590));
-            Assert.AreEqual(138, matematic.Mod(30592553, 623));
-            Assert.AreEqual(-138, matematic.Mod(-30592553, 623));
+            Assert.AreEqual(0, matematic.Modulo(8, 2));
+            Assert.AreEqual(0.05, matematic.Modulo(8, 0.15));
+            Assert.AreEqual(1, matematic.Modulo(25, 3));
+            Assert.AreEqual(-1, matematic.Modulo(-25, 3));
+            Assert.AreEqual(-2, matematic.Modulo(25, -3));
+            Assert.AreEqual(0.645, matematic.Modulo(126, 0.685));
+            Assert.AreEqual(-11, matematic.Modulo(259, -27));
+            Assert.AreEqual(-6, matematic.Modulo(-358, 16));
+            Assert.AreEqual(1556, matematic.Modulo(1556, 2000));
+            Assert.AreEqual(0, matematic.Modulo(2590, -2590));
+            Assert.AreEqual(138, matematic.Modulo(30592553, 623));
+            Assert.AreEqual(-138, matematic.Modulo(-30592553, 623));
 
 
-            Assert.AreEqual(0.005841, matematic.Mod(0.594891, 0.008925));
-            Assert.AreEqual(-0.094014425, matematic.Mod(0.005985575, -0.1));
-            Assert.AreEqual(0.0027959, matematic.Mod(-0.0845641, 0.00546));
+            Assert.AreEqual(0.005841, matematic.Modulo(0.594891, 0.008925));
+            Assert.AreEqual(-0.094014425, matematic.Modulo(0.005985575, -0.1));
+            Assert.AreEqual(0.0027959, matematic.Modulo(-0.0845641, 0.00546));
 
-            Assert.AreNotEqual(4, matematic.Mod(9, 2));
-            Assert.AreNotEqual(10, matematic.Mod(256, 20));
-            Assert.AreNotEqual(52, matematic.Mod(7, 6));
+            Assert.AreNotEqual(4, matematic.Modulo(9, 2));
+            Assert.AreNotEqual(10, matematic.Modulo(256, 20));
+            Assert.AreNotEqual(52, matematic.Modulo(7, 6));
         }
