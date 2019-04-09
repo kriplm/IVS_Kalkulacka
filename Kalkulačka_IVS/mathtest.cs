@@ -4,9 +4,9 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace MatematicTridaTest
 {
     [TestClass]
-    public class MatematicTrida
+    public class IVSMath
     {
-        # private MatematicTrida matematic
+        # private IvsMath matematic
 
         [TestInitialize]
         public void Inicializace()
@@ -187,31 +187,31 @@ namespace MatematicTridaTest
         }
 
         [TestMethod]
-        public void Umocneni()
+        public void Mocnina()
         {   
             // Testy na celé čísla
-            Assert.AreEqual(0, matematic.Umocneni(0, 20));
-            Assert.AreEqual(1, matematic.Umocneni(1,2));
-            Assert.AreEqual(0.125, matematic.Umocneni(2, -3));
-            Assert.AreEqual(-9, matematic.Umocneni(-3, 3));
-            Assert.AreEqual(0.0009765625, matematic.Umocneni(-2, -10));
-            Assert.AreEqual(3.397951715, matematic.Umocneni(5, 0.76));
-            Assert.AreEqual(0.61985385, matematic.Umocneni(8, -0.23));
-            Assert.AreEqual(16, matematic.Umocneni(-4, 2));
-            Assert.AreEqual(-7776, matematic.Umocneni(-6, 5));
-            Assert.AreEqual(10000000, matematic.Umocneni(10, 7));
-            Assert.AreEqual(1.4615016e+48, matematic.Umocneni(32, 32));
+            Assert.AreEqual(0, matematic.Mocnina(0, 20));
+            Assert.AreEqual(1, matematic.Mocnina(1,2));
+            Assert.AreEqual(0.125, matematic.Mocnina(2, -3));
+            Assert.AreEqual(-9, matematic.Mocnina(-3, 3));
+            Assert.AreEqual(0.0009765625, matematic.Mocnina(-2, -10));
+            Assert.AreEqual(3.397951715, matematic.Mocnina(5, 0.76));
+            Assert.AreEqual(0.61985385, matematic.Mocnina(8, -0.23));
+            Assert.AreEqual(16, matematic.Mocnina(-4, 2));
+            Assert.AreEqual(-7776, matematic.Mocnina(-6, 5));
+            Assert.AreEqual(10000000, matematic.Mocnina(10, 7));
+            Assert.AreEqual(1.4615016e+48, matematic.Mocnina(32, 32));
 
             //Testy na desetinné čísla
-            Assert.AreEqual(0.03125, matematic.Umocneni(0.5, 5));
-            Assert.AreEqual(-0.0006436343, matematic.Umocneni(-0.23, 5));
-            Assert.AreEqual(0.17797851562, matematic.Umocneni(-0.75, 6));
-            Assert.AreEqual(6.988843939e-4, matematic.Umocneni(3.5, -5.8));
+            Assert.AreEqual(0.03125, matematic.Mocnina(0.5, 5));
+            Assert.AreEqual(-0.0006436343, matematic.Mocnina(-0.23, 5));
+            Assert.AreEqual(0.17797851562, matematic.Mocnina(-0.75, 6));
+            Assert.AreEqual(6.988843939e-4, matematic.Mocnina(3.5, -5.8));
 
             //Testy které se nerovnají
-            Assert.AreNotEqual(-1, matematic.Umocneni(-1, 2));
-            Assert.AreNotEqual(10, matematic.Umocneni(5, 20));
-            Assert.AreNotEqual(52, matematic.Umocneni(7, 6));    
+            Assert.AreNotEqual(-1, matematic.Mocnina(-1, 2));
+            Assert.AreNotEqual(10, matematic.Mocnina(5, 20));
+            Assert.AreNotEqual(52, matematic.Mocnina(7, 6));    
 
         }
 
