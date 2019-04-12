@@ -195,6 +195,7 @@
             this.btnrovno.TabIndex = 12;
             this.btnrovno.Text = "=";
             this.btnrovno.UseVisualStyleBackColor = true;
+            this.btnrovno.Click += new System.EventHandler(this.btnrovno_Click);
             // 
             // btnfaktorial
             // 
@@ -205,6 +206,7 @@
             this.btnfaktorial.TabIndex = 15;
             this.btnfaktorial.Text = "!";
             this.btnfaktorial.UseVisualStyleBackColor = true;
+            this.btnfaktorial.Click += new System.EventHandler(this.btnznam_Click);
             // 
             // btnkrat
             // 
@@ -215,6 +217,7 @@
             this.btnkrat.TabIndex = 14;
             this.btnkrat.Text = "*";
             this.btnkrat.UseVisualStyleBackColor = true;
+            this.btnkrat.Click += new System.EventHandler(this.btnznam_Click);
             // 
             // btnplus
             // 
@@ -225,6 +228,7 @@
             this.btnplus.TabIndex = 13;
             this.btnplus.Text = "+";
             this.btnplus.UseVisualStyleBackColor = true;
+            this.btnplus.Click += new System.EventHandler(this.btnznam_Click);
             // 
             // btnodmocnina
             // 
@@ -235,6 +239,7 @@
             this.btnodmocnina.TabIndex = 18;
             this.btnodmocnina.Text = "√";
             this.btnodmocnina.UseVisualStyleBackColor = true;
+            this.btnodmocnina.Click += new System.EventHandler(this.btnznam_Click);
             // 
             // btndeleni
             // 
@@ -245,6 +250,7 @@
             this.btndeleni.TabIndex = 17;
             this.btndeleni.Text = "/";
             this.btndeleni.UseVisualStyleBackColor = true;
+            this.btndeleni.Click += new System.EventHandler(this.btnznam_Click);
             // 
             // btnminus
             // 
@@ -255,6 +261,7 @@
             this.btnminus.TabIndex = 16;
             this.btnminus.Text = "-";
             this.btnminus.UseVisualStyleBackColor = true;
+            this.btnminus.Click += new System.EventHandler(this.btnznam_Click);
             // 
             // btnmodulo
             // 
@@ -265,6 +272,7 @@
             this.btnmodulo.TabIndex = 21;
             this.btnmodulo.Text = "%";
             this.btnmodulo.UseVisualStyleBackColor = true;
+            this.btnmodulo.Click += new System.EventHandler(this.btnznam_Click);
             // 
             // btnC
             // 
@@ -314,7 +322,7 @@
             // 
             this.lblpredvýsledek.AutoSize = true;
             this.lblpredvýsledek.Font = new System.Drawing.Font("Arial Black", 18F, System.Drawing.FontStyle.Bold);
-            this.lblpredvýsledek.Location = new System.Drawing.Point(357, 36);
+            this.lblpredvýsledek.Location = new System.Drawing.Point(19, 32);
             this.lblpredvýsledek.Name = "lblpredvýsledek";
             this.lblpredvýsledek.Size = new System.Drawing.Size(31, 33);
             this.lblpredvýsledek.TabIndex = 24;
