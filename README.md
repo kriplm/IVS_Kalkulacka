@@ -1,8 +1,8 @@
-#   **IVS_Kalkulačka**
-##      2018/2019
+##   **IVS_Kalkulačka**
+###      2018/2019
 
-#  **Platforma**
-##Windows 64bit
+##  **Platforma**
+### Windows 64bit
 
 
 ##**Autoři**
@@ -11,8 +11,8 @@
 * xhladi23 Martin Hladiš
 
 
-### **Licence**
-## Program je distribuován pod [General Public License](https://cs.wikipedia.org/wiki/GNU_General_Public_License)
+## **Licence**
+### Program je distribuován pod [General Public License](https://cs.wikipedia.org/wiki/GNU_General_Public_License)
 
 
 
