@@ -1,8 +1,8 @@
 #   **IVS_Kalkulačka**
 **2018/2019**
 
-##  **Platforma**
-  * Windows 64bit
+##  *Platforma*
+* Windows 64bit
 
 
 ## **Autoři**
