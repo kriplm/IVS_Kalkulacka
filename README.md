@@ -6,9 +6,9 @@
 
 
 ##**Autoři**
-*## xprasi06 Matěj Prášil 
-*## xvadur04 Martin Vaďura
-*## xhladi23 Martin Hladiš
+* xprasi06 Matěj Prášil 
+* xvadur04 Martin Vaďura
+* xhladi23 Martin Hladiš
 
 
 ###**Licence**
