@@ -1,8 +1,8 @@
-##   **IVS_Kalkulačka**
-###      2018/2019
+###   **IVS_Kalkulačka**
+        2018/2019
 
 ##  **Platforma**
-### Windows 64bit
+  * Windows 64bit
 
 
 ##**Autoři**
@@ -12,7 +12,7 @@
 
 
 ## **Licence**
-### Program je distribuován pod [General Public License](https://cs.wikipedia.org/wiki/GNU_General_Public_License)
+Program je distribuován pod [General Public License](https://cs.wikipedia.org/wiki/GNU_General_Public_License)
 
 
 
