@@ -1,5 +1,5 @@
 #   **IVS_Kalkulačka**
-        2018/2019
+**2018/2019**
 
 ##  **Platforma**
   * Windows 64bit
