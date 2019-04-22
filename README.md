@@ -1,11 +1,11 @@
-###   **IVS_Kalkulačka**
+#   **IVS_Kalkulačka**
         2018/2019
 
 ##  **Platforma**
   * Windows 64bit
 
 
-##**Autoři**
+## **Autoři**
 * xprasi06 Matěj Prášil 
 * xvadur04 Martin Vaďura
 * xhladi23 Martin Hladiš
