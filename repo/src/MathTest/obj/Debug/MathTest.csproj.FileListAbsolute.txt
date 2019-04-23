@@ -1,0 +1,2 @@
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\MathTest\obj\Debug\MathTest.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\MathTest\obj\Debug\MathTest.csproj.CoreCompileInputs.cache

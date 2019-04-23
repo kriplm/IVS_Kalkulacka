@@ -1,0 +1,660 @@
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\Kalkulačka_IVS.exe.config
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\Kalkulačka_IVS.exe
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\Kalkulačka_IVS.pdb
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.csprojAssemblyReference.cache
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.Form1.resources
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.Properties.Resources.resources
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.csproj.GenerateResource.cache
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.exe
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.pdb
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\netstandard.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.AppContext.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Collections.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Collections.Specialized.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.ComponentModel.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Console.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Data.Common.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Globalization.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.Compression.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.FileSystem.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.Pipes.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Linq.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Linq.Expressions.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Linq.Parallel.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Linq.Queryable.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.Http.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.NameResolution.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.Ping.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.Primitives.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.Requests.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.Security.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.Sockets.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.WebSockets.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.ObjectModel.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Reflection.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Resources.Reader.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Resources.Writer.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.Handles.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Security.Claims.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Security.Principal.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Security.SecureString.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Text.Encoding.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Threading.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Threading.Tasks.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Threading.Thread.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Threading.Timer.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.ValueTuple.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Xml.XDocument.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Xml.XPath.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\Mathlib.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\Mathlib.pdb
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.exe.config
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.csproj.CopyComplete
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\Kalkulačka_IVS.exe.config
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\Kalkulačka_IVS.exe
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\Kalkulačka_IVS.pdb
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\netstandard.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.AppContext.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Collections.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.ComponentModel.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Console.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Data.Common.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Globalization.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.Compression.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.Pipes.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Linq.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.Http.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.Ping.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.Primitives.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.Requests.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.Security.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.Sockets.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.ObjectModel.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Reflection.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Resources.Reader.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Resources.Writer.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Security.Claims.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Security.Principal.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Security.SecureString.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Text.Encoding.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Threading.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Threading.Thread.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Threading.Timer.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.ValueTuple.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Xml.XPath.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\Mathlib.dll
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\Mathlib.pdb
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.exe.config
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.Form1.resources
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.Properties.Resources.resources
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.csproj.GenerateResource.cache
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.csproj.CopyComplete
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.exe
+C:\Users\Martin\Desktop\IVS\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.pdb
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\Kalkulačka_IVS.exe.config
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\Kalkulačka_IVS.exe
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\Kalkulačka_IVS.pdb
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\netstandard.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.AppContext.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Collections.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Collections.Specialized.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.ComponentModel.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Console.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Data.Common.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Globalization.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.Compression.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.FileSystem.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.Pipes.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Linq.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Linq.Expressions.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Linq.Parallel.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Linq.Queryable.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.Http.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.NameResolution.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.Ping.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.Primitives.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.Requests.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.Security.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.Sockets.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.WebSockets.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.ObjectModel.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Reflection.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Resources.Reader.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Resources.Writer.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.Handles.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Security.Claims.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Security.Principal.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Security.SecureString.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Text.Encoding.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Threading.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Threading.Tasks.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Threading.Thread.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Threading.Timer.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.ValueTuple.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Xml.XDocument.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Xml.XPath.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\Mathlib.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\Mathlib.pdb
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.csprojAssemblyReference.cache
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.exe.config
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.Form1.resources
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.Properties.Resources.resources
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.csproj.GenerateResource.cache
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.csproj.CoreCompileInputs.cache
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.csproj.CopyComplete
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.exe
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.pdb
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\Kalkulačka_IVS.exe.config
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\Kalkulačka_IVS.exe
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\Kalkulačka_IVS.pdb
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\netstandard.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.AppContext.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Collections.Concurrent.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Collections.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Collections.NonGeneric.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Collections.Specialized.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.ComponentModel.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Console.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Data.Common.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.Debug.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.Process.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.Tools.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Drawing.Primitives.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Dynamic.Runtime.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Globalization.Calendars.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Globalization.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Globalization.Extensions.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.Compression.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.FileSystem.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.Pipes.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Linq.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Linq.Expressions.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Linq.Parallel.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Linq.Queryable.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.Http.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.NameResolution.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.NetworkInformation.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.Ping.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.Primitives.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.Requests.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.Security.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.Sockets.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.WebSockets.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.ObjectModel.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Reflection.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Reflection.Extensions.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Reflection.Primitives.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Resources.Reader.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Resources.ResourceManager.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Resources.Writer.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.Extensions.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.Handles.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.InteropServices.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.Numerics.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Security.Claims.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Security.Principal.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Security.SecureString.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Text.Encoding.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Text.RegularExpressions.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Threading.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Threading.Overlapped.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Threading.Tasks.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Threading.Thread.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Threading.ThreadPool.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Threading.Timer.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.ValueTuple.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Xml.XDocument.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Xml.XmlDocument.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Xml.XPath.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\Mathlib.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\Mathlib.pdb
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.csprojAssemblyReference.cache
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.exe.config
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.Form1.resources
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.Properties.Resources.resources
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.csproj.GenerateResource.cache
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.csproj.CoreCompileInputs.cache
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.csproj.CopyComplete
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.exe
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.pdb
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\Kalkulačka_IVS.exe.config
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\Kalkulačka_IVS.exe
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\Kalkulačka_IVS.pdb
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\netstandard.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.AppContext.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Collections.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.ComponentModel.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Console.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Data.Common.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Globalization.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.Compression.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.Pipes.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Linq.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.Http.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.Ping.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.Primitives.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.Requests.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.Security.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.Sockets.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.ObjectModel.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Reflection.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Resources.Reader.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Resources.Writer.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Security.Claims.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Security.Principal.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Security.SecureString.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Text.Encoding.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Threading.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Threading.Thread.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Threading.Timer.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.ValueTuple.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Xml.XPath.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\Mathlib.dll
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\Mathlib.pdb
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.exe.config
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.Form1.resources
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.Properties.Resources.resources
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.csproj.GenerateResource.cache
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.csproj.CopyComplete
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.exe
+C:\Users\Martin\Desktop\IVSfinal\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.pdb
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\Kalkulačka_IVS.exe.config
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\Kalkulačka_IVS.exe
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\Kalkulačka_IVS.pdb
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\netstandard.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.AppContext.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Collections.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Collections.Specialized.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.ComponentModel.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Console.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Data.Common.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Globalization.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.Compression.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.FileSystem.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.Pipes.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Linq.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Linq.Expressions.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Linq.Parallel.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Linq.Queryable.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.Http.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.NameResolution.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.Ping.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.Primitives.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.Requests.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.Security.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.Sockets.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Net.WebSockets.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.ObjectModel.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Reflection.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Resources.Reader.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Resources.Writer.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.Handles.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Security.Claims.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Security.Principal.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Security.SecureString.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Text.Encoding.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Threading.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Threading.Tasks.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Threading.Thread.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Threading.Timer.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.ValueTuple.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Xml.XDocument.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Xml.XPath.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\Mathlib.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\bin\Debug\Mathlib.pdb
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.exe.config
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.Form1.resources
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.Properties.Resources.resources
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.csproj.GenerateResource.cache
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.csproj.CopyComplete
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.exe
+C:\Users\marti\Desktop\Kalkulačka_IVS\Kalkulačka_IVS\obj\Debug\Kalkulačka_IVS.pdb

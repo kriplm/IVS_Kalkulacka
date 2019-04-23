@@ -1,0 +1,3 @@
+﻿xhladi23 - Testy, MockUp, Uživatelská příručka, Kontrola programu			100
+xprasi06 - Programování kalkulačky, Matematická knihovna, MockUp, debugging 		100	
+xvadur04 - Matemtická knihovna, dokumentace, instalátor, GitHub				100

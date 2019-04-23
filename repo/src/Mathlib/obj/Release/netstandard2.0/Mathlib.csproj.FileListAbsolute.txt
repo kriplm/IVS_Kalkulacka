@@ -1,0 +1,9 @@
+C:\Users\marti\Desktop\Kalkulačka_IVS\Mathlib\bin\Release\netstandard2.0\Mathlib.deps.json
+C:\Users\marti\Desktop\Kalkulačka_IVS\Mathlib\bin\Release\netstandard2.0\Mathlib.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Mathlib\bin\Release\netstandard2.0\Mathlib.pdb
+C:\Users\marti\Desktop\Kalkulačka_IVS\Mathlib\obj\Release\netstandard2.0\Mathlib.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\Kalkulačka_IVS\Mathlib\obj\Release\netstandard2.0\Mathlib.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\Kalkulačka_IVS\Mathlib\obj\Release\netstandard2.0\Mathlib.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\Kalkulačka_IVS\Mathlib\obj\Release\netstandard2.0\Mathlib.AssemblyInfo.cs
+C:\Users\marti\Desktop\Kalkulačka_IVS\Mathlib\obj\Release\netstandard2.0\Mathlib.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Mathlib\obj\Release\netstandard2.0\Mathlib.pdb

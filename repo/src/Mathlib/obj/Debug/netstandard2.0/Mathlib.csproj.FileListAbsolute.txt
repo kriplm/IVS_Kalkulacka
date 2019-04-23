@@ -1,0 +1,36 @@
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Mathlib\bin\Debug\netstandard2.0\Mathlib.deps.json
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Mathlib\bin\Debug\netstandard2.0\Mathlib.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Mathlib\bin\Debug\netstandard2.0\Mathlib.pdb
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Mathlib\obj\Debug\netstandard2.0\Mathlib.csprojAssemblyReference.cache
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Mathlib\obj\Debug\netstandard2.0\Mathlib.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Mathlib\obj\Debug\netstandard2.0\Mathlib.AssemblyInfoInputs.cache
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Mathlib\obj\Debug\netstandard2.0\Mathlib.AssemblyInfo.cs
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Mathlib\obj\Debug\netstandard2.0\Mathlib.dll
+C:\Users\marti\source\repos\IVS_Kalkulacka\Kalkulačka_IVS\Mathlib\obj\Debug\netstandard2.0\Mathlib.pdb
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Mathlib\bin\Debug\netstandard2.0\Mathlib.deps.json
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Mathlib\bin\Debug\netstandard2.0\Mathlib.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Mathlib\bin\Debug\netstandard2.0\Mathlib.pdb
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Mathlib\obj\Debug\netstandard2.0\Mathlib.csprojAssemblyReference.cache
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Mathlib\obj\Debug\netstandard2.0\Mathlib.csproj.CoreCompileInputs.cache
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Mathlib\obj\Debug\netstandard2.0\Mathlib.AssemblyInfoInputs.cache
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Mathlib\obj\Debug\netstandard2.0\Mathlib.AssemblyInfo.cs
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Mathlib\obj\Debug\netstandard2.0\Mathlib.dll
+C:\Users\skrat\OneDrive\Plocha\Škola\IVS\proj2\Kalkulačka_IVS\Mathlib\obj\Debug\netstandard2.0\Mathlib.pdb
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Mathlib\bin\Debug\netstandard2.0\Mathlib.deps.json
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Mathlib\bin\Debug\netstandard2.0\Mathlib.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Mathlib\bin\Debug\netstandard2.0\Mathlib.pdb
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Mathlib\obj\Debug\netstandard2.0\Mathlib.csprojAssemblyReference.cache
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Mathlib\obj\Debug\netstandard2.0\Mathlib.csproj.CoreCompileInputs.cache
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Mathlib\obj\Debug\netstandard2.0\Mathlib.AssemblyInfoInputs.cache
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Mathlib\obj\Debug\netstandard2.0\Mathlib.AssemblyInfo.cs
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Mathlib\obj\Debug\netstandard2.0\Mathlib.dll
+D:\Škola\1.semestr\Letní semestr\IVS\proj2\Kalkulačka_IVS\Mathlib\obj\Debug\netstandard2.0\Mathlib.pdb
+C:\Users\marti\Desktop\Kalkulačka_IVS\Mathlib\bin\Debug\netstandard2.0\Mathlib.deps.json
+C:\Users\marti\Desktop\Kalkulačka_IVS\Mathlib\bin\Debug\netstandard2.0\Mathlib.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Mathlib\bin\Debug\netstandard2.0\Mathlib.pdb
+C:\Users\marti\Desktop\Kalkulačka_IVS\Mathlib\obj\Debug\netstandard2.0\Mathlib.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\Kalkulačka_IVS\Mathlib\obj\Debug\netstandard2.0\Mathlib.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\Kalkulačka_IVS\Mathlib\obj\Debug\netstandard2.0\Mathlib.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\Kalkulačka_IVS\Mathlib\obj\Debug\netstandard2.0\Mathlib.AssemblyInfo.cs
+C:\Users\marti\Desktop\Kalkulačka_IVS\Mathlib\obj\Debug\netstandard2.0\Mathlib.dll
+C:\Users\marti\Desktop\Kalkulačka_IVS\Mathlib\obj\Debug\netstandard2.0\Mathlib.pdb
